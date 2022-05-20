@@ -29,7 +29,7 @@ SECRET_KEY = os.environ.setdefault('SECRET_KEY', 'p@ei#69*b*zz3u4yie-$()@cy^l(+x
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['kaan01-bputique-ado.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['kaan01-boutique-ado.herokuapp.com', 'localhost']
 
 
 # Application definition
